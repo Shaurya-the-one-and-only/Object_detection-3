@@ -1,0 +1,37 @@
+body
+{
+    background:linear-gradient(#e66465, #9198e5, #9cf7b4, #f48ff7, #fffa6e);
+}
+
+.link
+{
+    font-size: 30px;
+    color: white;
+    background-color: black;
+    box-shadow: grey;
+    border-radius: 30px;
+    width: 150px;
+}
+
+
+#object_detection
+{
+    color: white;
+    size: 30px;
+    background-color: #9198e5;
+    border-radius: 30px;
+    box-shadow: 5px 5px 5px rgb(255, 199, 199);
+    width: 330px;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1
+{
+    font-size: 30px;
+    color: white;
+    background-color: rgb(188, 238, 255);
+    box-shadow: grey;
+    border-radius: 30px;
+    width: 150px;
+}
